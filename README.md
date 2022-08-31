@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://paiseinvestkar.blogspot.com/](https://paiseinvestkar.blogspot.com/)
 
-- 💬 Ask me about **Flutter,Android**
+- 💬 Ask me about **Flutter,Android,Investing**
 
 - 📫 How to reach me **abhaysinghsangwan40@gmail.com**
 
