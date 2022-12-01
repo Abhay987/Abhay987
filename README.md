@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay Sangwan</h1>
 <h3 align="center">A Passionate Hybrid Application Developer from India</h3>
 
-![A Passionate Hybrid Application Developer from India](https://foundersguide.com/wp-content/uploads/2020/11/programming-1.jpg)
+![A Passionate Application Developer from India](https://foundersguide.com/wp-content/uploads/2020/11/programming-1.jpg)
 
 - 🔭 I’m currently working on **Hybrid Application Developer Using Flutter**
 
